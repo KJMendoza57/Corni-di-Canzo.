@@ -1,0 +1,28 @@
+Immagine da inserire nel file di teoria e file config.xml di esempio
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.phonegap.example"
+versionCode = "22"
+version = "1.6.0" >
+<!-- nome della app -->
+<name>Corni di Canzo</name>
+<!-- descrizione -->
+<description>
+Applicazione riguardante: descrizione, modi per arrivarci, flora e fauna, chiesa ed i piatti tipici.
+</description>
+Kyle Jomari Mendoza
+<author href="https://build.phonegap.com">
+Kyle Jomari Mendoza
+</author>
+<!-- abilita links esterni -->
+<allow-navigation href="*://*.canossamilano.org/*" />
+
+<!-- piattaforma di riferimento ed icona della app -->
+<platform name="android">
+<icon src="img/7.jpg" density="ldpi" />
+<icon src="img/7.jpg" density="mdpi" />
+<icon src="img/7.jpg" density="hdpi" />
+<icon src="img/7.jpg" density="xhdpi" />
+</platform>
+</widget>
