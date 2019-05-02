@@ -19,9 +19,9 @@ Kyle Jomari Mendoza
 
 <!-- piattaforma di riferimento ed icona della app -->
 <platform name="android">
-<icon src="img/000.jpg" density="ldpi" />
-<icon src="img/000.jpg" density="mdpi" />
-<icon src="img/000.jpg" density="hdpi" />
-<icon src="img/000.jpg" density="xhdpi" />
+<icon src="imgages/000.jpg" density="ldpi" />
+<icon src="imgages/000.jpg" density="mdpi" />
+<icon src="imgages/000.jpg" density="hdpi" />
+<icon src="imgages/000.jpg" density="xhdpi" />
 </platform>
 </widget>
